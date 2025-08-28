@@ -16,6 +16,8 @@
 // }
 // console.log(testEven(3))
 // console.log(testEven(12))
+// console.log(testEven(0.6))
+// console.log(testEven(-4))
 // ====================================================
 // function solution(a, b){
 //   if (a.length < b.length) {
@@ -26,6 +28,7 @@
 // }
 // console.log(solution("1", "22"))
 // console.log(solution("22", "1"))
+// console.log(solution("Kiwi", "Olma"))
 // =====================================================
 // function divisibleBy(numbers, divisor) {
 //   let arr = []
@@ -37,9 +40,19 @@
 //   return arr
 // }
 // console.log(divisibleBy([1, 2, 3, 4, 5, 6], 2))
+// console.log(divisibleBy([1, 2, 3, 4, 5, 6], 3))
 // =================================================
 // function nameShuffler(str) {
 //   return str.split(" ").reverse().join(" ")
 // }
 // console.log(nameShuffler("john McClane"))
 // ==========================================
+
+
+
+
+
+
+let num = 12
+console.log(num)
+
