@@ -28,3 +28,28 @@
 // }
 // console.log(twoSort(["bitcoin", "take", "over", "the", "world", "maybe", "who", "knows", "perhaps"]))
 // ===================================================================
+// function testEven(n) {
+//   return n%2===0
+// }
+// console.log(testEven(2))
+// =================================================================
+// function repeatStr (n, s) {
+//   for(let i = 0; i<=n; i++){
+//     return s.repeat(n)
+//   }
+// }
+// console.log(repeatStr(3, "*"))
+// ================================================================
+// function solution(str, ending){
+//   for(let i = 0; i <=str.length;i++){
+//     return str.endsWith(ending)
+//   } 
+// }
+// console.log(solution(" abc", " bc"))
+// ===============================================================
+// function makeUpperCase(str) {
+//    return str.toUpperCase()
+// }
+// console.log(makeUpperCase("hello"))
+// =====================================================
+
